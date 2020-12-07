@@ -10,7 +10,7 @@ This is the final video demonstration about how this assignment turns out:
 </td></tr></table>
 
 ### Reference:
-https://play.google.com/store/apps/details?id=com.termux 
-https://play.google.com/store/apps/details?id=com.termux.api
-https://thingsboard.io/docs/user-guide/install/installation-options/
-https://thingsboard.io/docs/guides/
+1. https://play.google.com/store/apps/details?id=com.termux 
+2. https://play.google.com/store/apps/details?id=com.termux.api
+3. https://thingsboard.io/docs/user-guide/install/installation-options/
+4. https://thingsboard.io/docs/guides/
